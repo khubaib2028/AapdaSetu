@@ -164,3 +164,14 @@ Emergency Response Dashboard
 
 Response / Resolution
 
+
+## Team
+
+AapdaSetu was collaboratively designed and developed by:
+
+- Shivam Gupta
+- Khubaib Alam
+
+Both contributors worked collaboratively across the project's
+frontend, backend, database, disaster-management logic, and overall
+system development.
